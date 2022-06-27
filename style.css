@@ -172,7 +172,7 @@ footer {
 @media (max-width: 728px) {
   .row {
     flex-direction: column;
-  }
+  } 
   .home-description {
     margin-bottom: 24px;
     display: flex;
