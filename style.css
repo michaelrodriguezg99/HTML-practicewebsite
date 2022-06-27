@@ -170,9 +170,12 @@ footer {
 /* Small Phones, tablets, large smartphones */
 
 @media (max-width: 728px) {
+  header {
+    height: auto;
+  }
   .row {
     flex-direction: column;
-  } 
+  }
   .home-description {
     margin-bottom: 24px;
     display: flex;
